@@ -1,0 +1,16 @@
+Chromadb
+langchain
+langchain-community==0.2.10
+langchain_experimental
+langchainhub
+llama-cpp-python
+sentence-transformers
+tiktoken
+umap-learn
+matplotlib
+bs4
+numpy
+pandas
+scikit-learn
+torch
+transformers
